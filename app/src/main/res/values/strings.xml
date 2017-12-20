@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CollapsingToolbarLayoutExample</string>
+    <string name="here_the_example">Here the example</string>
+    <string name="text_one">Text One</string>
+    <string name="text_two">text two</string>
+    <string name="text_three">text three</string>
+</resources>
